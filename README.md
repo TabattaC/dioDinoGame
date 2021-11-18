@@ -1,7 +1,7 @@
 
 <h3>DioDinoGame</h3> 
 <h4> Desafio DIO </l4>
-<div class="tenor-gif-embed" data-postid="16662835" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/dachshunds-dogs-hot-weiner-weinerdog-gif-16662835">Dachshunds Dogs GIF</a>from <a href="https://tenor.com/search/dachshunds-gifs">Dachshunds GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![dachshunds-dogs](https://user-images.githubusercontent.com/84480555/142432191-12a171f7-fa95-4e1f-a641-70140b1775fc.gif)
 
 <ul>
   <li> Recriando jogo do dinossauro sem internet </li>
