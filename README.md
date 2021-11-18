@@ -6,4 +6,6 @@
   <li> Recriando jogo do dinossauro sem internet </li>
   <li> O famoso dinossauro foi substituido por um cachorro salsichinha (em homenagem ao meu cachorro Afonso)  </li>
 </ul>
+
+![Alt Text](![Uploading dachshunds-dogs.gif…])
  
