@@ -1,5 +1,5 @@
 
- :video_game: <h3>DioDinoGame</h3> 
+<h3>  :video_game: DioDinoGame</h3> 
 
 <h4> Desafio DIO </l4>
 <ul>
